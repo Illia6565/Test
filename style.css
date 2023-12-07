@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+header{height: 100px;
+      background-color: purple;}
+
+aside{
+background-color: #955cff;
+width: 200px;
+float: right;
+}
+section{background-color: blue;
+        heigth: 300px;
+       }
+footer{background-color: #ff00bb;
+      hight:100px;}
+footer p{text-align: center;}
